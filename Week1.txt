@@ -1,4 +1,0 @@
-1.	First steps always create a Frequency plot
-2.	The compare accumulate sum of the frequency
-
-3.	On Bayesian you can always update your probablities or chances.
